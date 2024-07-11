@@ -4,7 +4,5 @@
 </div>
 
 
-# (ECCV 2024)
-Project Website: https://shengqi77.github.io/RLR-AT.github.io/
-
+## [🔥 Project Page](https://shengqi77.github.io/RLR-AT.github.io/) | [Paper(Coming soon)]
 
