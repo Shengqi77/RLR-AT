@@ -4,5 +4,5 @@
 </div>
 
 
-## [🔥 Project Page](https://shengqi77.github.io/RLR-AT.github.io/) | [Paper](https://arxiv.org/pdf/2407.08377) [Code(Coming soon)]
+## [🔥 Project Page](https://shengqi77.github.io/RLR-AT.github.io/) | [Paper](https://arxiv.org/pdf/2407.08377) | [Code(Coming soon)]
 
