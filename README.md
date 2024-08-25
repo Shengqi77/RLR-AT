@@ -10,7 +10,7 @@
 <img width="864" alt="image" src="https://github.com/Shengqi77/RLR-AT/blob/main/image/Ref.png">
 
 ## Instructions
-Run the Demo_Distortion_Correction.m file for correcting the geometric distortion caused by the long-range turbulence.
+Run the Demo_Distortion_Correction.m file for correcting the geometric distortion.
 ## Citation
 If you find our work helpful for your own research or work, please cite our paper.
 ```
