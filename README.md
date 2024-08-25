@@ -12,3 +12,4 @@ This repository contains the code for CDSP:
 
 
 ## Instructions
+Run the Demo_Distortion_Correction.m file for correcting the geometric distortion caused by the long-range turbulence.
