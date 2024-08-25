@@ -8,7 +8,7 @@
 <img width="864" alt="image" src="https://github.com/Shengqi77/RLR-AT/blob/main/image/2024ECCV.gif">
 
 
-This repository contains the code for the following paper:
+This repository contains the code for CDSP:
 
 
 ## Instructions
