@@ -13,3 +13,13 @@ This repository contains the code for CDSP:
 
 ## Instructions
 Run the Demo_Distortion_Correction.m file for correcting the geometric distortion caused by the long-range turbulence.
+## Citation
+If you find our work helpful for your own research or work, please cite our paper.
+```
+@article{xu2024long,
+  title={Long-range Turbulence Mitigation: A Large-scale Dataset and A Coarse-to-fine Framework},
+  author={Xu, Shengqi and Sun, Run and Chang, Yi and Cao, Shuning and Xiao, Xueyao and Yan, Luxin},
+  journal={arXiv preprint arXiv:2407.08377},
+  year={2024}
+}
+```
