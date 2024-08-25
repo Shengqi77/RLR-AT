@@ -14,8 +14,10 @@ Run the Demo_Distortion_Correction.m file for correcting the geometric distortio
 ## 👍 Useful Resources
 If you’re also working on turbulence mitigation, I strongly recommend that you look into the following resources. They could be of significant help to your research！
 
-Purdue Intelligent Imaging Lab(i2Lab). i2Lab focuses on computational imaging and has produced many excellent works related to imaging through turbulence, including turbulence mitigation and simulation.
-https://engineering.purdue.edu/ChanGroup/project_turbulence.html
+[Purdue Intelligent Imaging Lab(i2Lab)](https://engineering.purdue.edu/ChanGroup/project_turbulence.html)
+
+i2Lab focuses on computational imaging and has produced many excellent works related to imaging through turbulence, including turbulence mitigation and simulation.
+
 
 ## 📘 Citation
 If you find our work helpful for your own research or work, please cite our paper.
