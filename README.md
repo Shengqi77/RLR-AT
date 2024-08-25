@@ -9,9 +9,9 @@
 <img width="864" alt="image" src="https://github.com/Shengqi77/RLR-AT/blob/main/image/results.png">
 <img width="864" alt="image" src="https://github.com/Shengqi77/RLR-AT/blob/main/image/Ref.png">
 
-## 🛠️ Instructions
+## 🛠️ Instruction
 Run the Demo_Distortion_Correction.m file for correcting the geometric distortion.
-## 👍 Useful Resources
+## 👍 Useful Resource
 If you’re also working on turbulence mitigation, I strongly recommend that you look into the following resources. They could be of significant help to your research！
 
 [Purdue Intelligent Imaging Lab (i2Lab)](https://engineering.purdue.edu/ChanGroup/project_turbulence.html)
