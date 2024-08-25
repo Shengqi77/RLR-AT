@@ -12,10 +12,9 @@
 ## Instructions
 Run the Demo_Distortion_Correction.m file for correcting the geometric distortion.
 ## 👍 Useful Resources
-If you're also focused on Atmospheric Turbulence Mitigation, I sincerely recommend the following resources. They’ve been incredibly helpful in my research and might be equally beneficial for yours!
-```
-```
-## Citation
+If you’re also working on atmospheric turbulence mitigation, I strongly recommend that you look into the following resources. They could be of significant help to your research！
+[Turbulence @ Purdue i2Lab](https://engineering.purdue.edu/ChanGroup/project_turbulence.html)
+## 📘 Citation
 If you find our work helpful for your own research or work, please cite our paper.
 ```
 @article{xu2024long,
