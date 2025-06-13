@@ -15,26 +15,24 @@ Run the Demo_Distortion_Correction.m file for correcting the geometric distortio
 ### Step 2. Blur Removal
 We use [Uformer](https://github.com/ZhendongWang6/Uformer) for deblurring. 
 
-#### Uformer Setup： 
+**Uformer Setup：**
 ```
 git clone https://github.com/ZhendongWang6/Uformer.git
 cd Uformer
 pip install -r requirements.txt
 ```
-#### Train： 
-**1. Training Data:**   
-The detailed methodology for constructing **blurred-sharp training data pairs** is provided in the **Section 3** of [supplementary materials](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05881-supp.pdf)  
-**2. Training Code:**   
+**Train:**
+**Training Data:** The detailed method for constructing **blurred-sharp training data pairs** is provided in the **Section 3** of [supplementary materials](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05881-supp.pdf)  
+**Training Code:**   
 ```
 sh script/train_motiondeblur.sh
 ```
-#### Test： 
+**Test:**
 ```
+#Please modify the paths for images and model weights.
 python /test/test_realblur.py
 ```
-Please modify the paths for both the blurred images and deblurring model weights as required. For specific implementation details, refer to the README in the [Uformer](https://github.com/ZhendongWang6/Uformer).
-
-#### Pre-trained deblurring weights：  
+**Pre-trained deblurring weights:**  
 https://drive.google.com/drive/folders/1uPiXSeczKwMY0_xYJ9A5fLnW2w4-HUpy?usp=drive_link
 
 ## 🧩 RLR-AT Dataset Download
