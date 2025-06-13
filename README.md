@@ -40,7 +40,7 @@ https://drive.google.com/drive/folders/1uPiXSeczKwMY0_xYJ9A5fLnW2w4-HUpy?usp=dri
 **Small-version** (Including 45 typical real turbulence videos. It's enough to use them for evaluation.)  
 https://drive.google.com/file/d/14z0CvHcEVhkxWu5U7nq64xmB8Apqnx54/view?usp=drive_link
 
-**Large-version** (Including both real **dynamic** and static scene turbulence videos. Feel free to use them for your research.)
+**Large-version** (Including both real **dynamic and static scene** turbulence. Feel free to use them for your research.)
 https://drive.google.com/drive/folders/1cJpsyx_sYwGnBRdTaBWjPgIbh9d76-2w?usp=drive_link
 
 ## 📘 Citation
