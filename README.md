@@ -10,8 +10,10 @@
 <img width="864" alt="image" src="https://github.com/Shengqi77/RLR-AT/blob/main/image/Ref.png">
 
 ## Instruction
-### Distortion Correction
+### 1. Geometric Distortion Correction
 Run the Demo_Distortion_Correction.m file for correcting the geometric distortion.
+### 2. Blur Removal
+For deblurring, we employ [Uformer](https://github.com/ZhendongWang6/Uformer). The detailed methodology for constructing blurred-sharp training data pairs is provided in the **Section 3** of [supplementary materials](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05881-supp.pdf)
 
 ## RLR-AT Dataset Download
 
