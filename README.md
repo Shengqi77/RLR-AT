@@ -17,7 +17,6 @@ Run the Demo_Distortion_Correction.m file for correcting the geometric distortio
 https://drive.google.com/file/d/14z0CvHcEVhkxWu5U7nq64xmB8Apqnx54/view?usp=drive_link
 
 **Large-version**
-
 https://drive.google.com/drive/folders/1cJpsyx_sYwGnBRdTaBWjPgIbh9d76-2w?usp=drive_link
 
 ## Useful Resource
