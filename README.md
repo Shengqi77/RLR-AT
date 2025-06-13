@@ -40,16 +40,8 @@ https://drive.google.com/drive/folders/1uPiXSeczKwMY0_xYJ9A5fLnW2w4-HUpy?usp=dri
 **Small-version** (Including 45 typical real-world turbulence videos. It's enough to use them for evaluation.)  
 https://drive.google.com/file/d/14z0CvHcEVhkxWu5U7nq64xmB8Apqnx54/view?usp=drive_link
 
-**Large-version** (Including both **dynamic** and static real-world scene turbulence videos. Feel free to use them for your research)
+**Large-version** (Including both **dynamic** and static real-world scene turbulence videos. Feel free to use them for your research.)
 https://drive.google.com/drive/folders/1cJpsyx_sYwGnBRdTaBWjPgIbh9d76-2w?usp=drive_link
-
-## 👍 Useful Resource
-If you’re also working on turbulence mitigation, I strongly recommend that you look into the following resources. They could be of significant help to your research！
-
-[Purdue Intelligent Imaging Lab (i2Lab)](https://engineering.purdue.edu/ChanGroup/project_turbulence.html) 
-
-i2Lab focuses on computational imaging and has produced many excellent works related to imaging through turbulence, including turbulence mitigation and simulation.
-
 
 ## 📘 Citation
 If you find our work helpful for your own research or work, please cite our paper.
