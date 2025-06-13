@@ -37,7 +37,7 @@ https://drive.google.com/drive/folders/1uPiXSeczKwMY0_xYJ9A5fLnW2w4-HUpy?usp=dri
 
 ## 🧩 RLR-AT Dataset Download
 
-**Small-version** (45 typical real turbulence videos. It's enough to use them to test your method.)  
+**Small-version** (45 typical real turbulence videos. It's enough to use them for evaluation.)  
 https://drive.google.com/file/d/14z0CvHcEVhkxWu5U7nq64xmB8Apqnx54/view?usp=drive_link
 
 **Large-version**   
