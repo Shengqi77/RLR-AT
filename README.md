@@ -8,7 +8,7 @@
 <img width="864" alt="image" src="https://github.com/Shengqi77/RLR-AT/blob/main/image/2024ECCV.gif">
 <img width="864" alt="image" src="https://github.com/Shengqi77/RLR-AT/blob/main/image/Ref.png">
 
-## 🛠️ CDSP Code Instruction
+## 🛠️ Code Instruction
 ### Step 1. Geometric Distortion Correction
 Run the Demo_Distortion_Correction.m file for correcting the geometric distortion.
 ### Step 2. Blur Removal
@@ -35,7 +35,7 @@ python /test/test_realblur.py
 **Pre-trained deblurring weights:**  
 https://drive.google.com/drive/folders/1uPiXSeczKwMY0_xYJ9A5fLnW2w4-HUpy?usp=drive_link
 
-## 🧩 RLR-AT Dataset Download
+## 🧩 Dataset Download
 
 **Small-version** (45 typical real turbulence videos. It's enough to use them for evaluation.)  
 https://drive.google.com/file/d/14z0CvHcEVhkxWu5U7nq64xmB8Apqnx54/view?usp=drive_link
