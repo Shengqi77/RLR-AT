@@ -1,7 +1,6 @@
 <div align="center">
 
-# Long-range Turbulence Mitigation:    
-## A Large-scale Dataset and A Coarse-to-fine Framework
+# Long-range Turbulence Mitigation: <br> A Large-scale Dataset and A Coarse-to-fine Framework
 </div>
 
 
