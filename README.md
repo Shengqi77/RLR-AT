@@ -22,7 +22,6 @@ cd Uformer
 pip install -r requirements.txt
 ```
 **Training Data**  
-
 The detailed method for constructing **blurred-sharp training data pairs** is provided in the **Section 3** of [supplementary materials](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05881-supp.pdf)  
 **Training Code**   
 ```
