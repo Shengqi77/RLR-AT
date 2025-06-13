@@ -21,7 +21,7 @@ cd Uformer
 pip install -r requirements.txt
 ```
 **Training Data**  
-The details for constructing **Deblurring Training Data** are provided in the **Section 3** of [appendix](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05881-supp.pdf)  
+The details for constructing **Deblurring Training Data** are provided in the **Section 3.3** of [appendix](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05881-supp.pdf)  
 **Training Code**   
 ```
 #Please modify the paths for training data.
