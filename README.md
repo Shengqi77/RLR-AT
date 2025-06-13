@@ -13,7 +13,9 @@
 ### 1. Geometric Distortion Correction
 Run the Demo_Distortion_Correction.m file for correcting the geometric distortion.
 ### 2. Blur Removal
-For deblurring, we employ [Uformer](https://github.com/ZhendongWang6/Uformer). The detailed methodology for constructing blurred-sharp training data pairs is provided in the **Section 3** of [supplementary materials](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05881-supp.pdf)
+We use [Uformer](https://github.com/ZhendongWang6/Uformer) for deblurring. The detailed methodology for constructing blurred-sharp training data pairs is provided in the **Section 3** of [supplementary materials](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05881-supp.pdf)  
+Pre-trained deblurring model：  
+https://drive.google.com/drive/folders/1uPiXSeczKwMY0_xYJ9A5fLnW2w4-HUpy?usp=drive_link
 
 ## RLR-AT Dataset Download
 
