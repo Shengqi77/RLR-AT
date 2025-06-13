@@ -1,6 +1,6 @@
 <div align="center">
 
-# [2024 ECCV] Long-range Turbulence Mitigation: <br> A Large-scale Dataset and A Coarse-to-fine Framework
+# [2024 ECCV 🔥] Long-range Turbulence Mitigation: <br> A Large-scale Dataset and A Coarse-to-fine Framework
 </div>
 
 
