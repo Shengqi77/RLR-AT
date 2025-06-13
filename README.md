@@ -9,7 +9,7 @@
 <img width="864" alt="image" src="https://github.com/Shengqi77/RLR-AT/blob/main/image/results.png">
 <img width="864" alt="image" src="https://github.com/Shengqi77/RLR-AT/blob/main/image/Ref.png">
 
-## Instruction
+## CDSP Code Instruction
 ### 1. Geometric Distortion Correction
 Run the Demo_Distortion_Correction.m file for correcting the geometric distortion.
 ### 2. Blur Removal
