@@ -37,10 +37,10 @@ https://drive.google.com/drive/folders/1uPiXSeczKwMY0_xYJ9A5fLnW2w4-HUpy?usp=dri
 
 ## 🧩 Dataset Download
 
-**Small-version** (45 typical real turbulence videos. It's enough to use them for evaluation.)  
+**Small-version** (Including 45 typical real turbulence videos. It's enough to use them for evaluation.)  
 https://drive.google.com/file/d/14z0CvHcEVhkxWu5U7nq64xmB8Apqnx54/view?usp=drive_link
 
-**Large-version**   
+**Large-version** (Including both dynamic and static scene turbulence videos. Feel free to use them for your research)
 https://drive.google.com/drive/folders/1cJpsyx_sYwGnBRdTaBWjPgIbh9d76-2w?usp=drive_link
 
 ## 👍 Useful Resource
