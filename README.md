@@ -16,7 +16,7 @@ Run the Demo_Distortion_Correction.m file for correcting the geometric distortio
 **Small-version** (45 typical real turbulence videos. It's enough to use them to test your method.)  
 https://drive.google.com/file/d/14z0CvHcEVhkxWu5U7nq64xmB8Apqnx54/view?usp=drive_link
 
-**Large-version** \n
+**Large-version**   
 https://drive.google.com/drive/folders/1cJpsyx_sYwGnBRdTaBWjPgIbh9d76-2w?usp=drive_link
 
 ## Useful Resource
