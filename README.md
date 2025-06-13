@@ -10,7 +10,9 @@
 <img width="864" alt="image" src="https://github.com/Shengqi77/RLR-AT/blob/main/image/Ref.png">
 
 ## Instruction
+### Distortion Correction
 Run the Demo_Distortion_Correction.m file for correcting the geometric distortion.
+
 ## RLR-AT Dataset Download
 
 **Small-version** (45 typical real turbulence videos. It's enough to use them to test your method.)  
