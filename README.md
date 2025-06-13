@@ -10,16 +10,27 @@
 <img width="864" alt="image" src="https://github.com/Shengqi77/RLR-AT/blob/main/image/Ref.png">
 
 ## 🛠️ CDSP Code Instruction
-### 1. Geometric Distortion Correction
+### Step 1. Geometric Distortion Correction
 Run the Demo_Distortion_Correction.m file for correcting the geometric distortion.
-### 2. Blur Removal
-We use [Uformer](https://github.com/ZhendongWang6/Uformer) for deblurring. The detailed methodology for constructing **blurred-sharp training data pairs** is provided in the **Section 3** of [supplementary materials](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05881-supp.pdf)  
+### Step 2. Blur Removal
+We use [Uformer](https://github.com/ZhendongWang6/Uformer) for deblurring. 
+
+#### Uformer Setup： 
 ```
+#Deblur test 
 git clone https://github.com/ZhendongWang6/Uformer.git
 cd Uformer
 pip install -r requirements.txt
 ```
-**Pre-trained deblurring mode**l：  
+
+#### Training details： 
+**1. Training Data:** The detailed methodology for constructing **blurred-sharp training data pairs** is provided in the **Section 3** of [supplementary materials](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05881-supp.pdf)
+**2. Training Code:** 
+
+#### Training details： 
+
+Please modify the paths for both the blurred images and deblurring model weights as required. For specific implementation details, refer to the README in the [Uformer](https://github.com/ZhendongWang6/Uformer).
+**Pre-trained deblurring weights**l：  
 https://drive.google.com/drive/folders/1uPiXSeczKwMY0_xYJ9A5fLnW2w4-HUpy?usp=drive_link
 
 ## 🧩 RLR-AT Dataset Download
